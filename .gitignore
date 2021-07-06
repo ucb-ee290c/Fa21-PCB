@@ -1,0 +1,11 @@
+*.wmf
+*History/
+*__Previews/
+*.net
+*.ldb
+*.CMP
+*.REP
+*.CSV
+*.SchDocPreview
+Project Logs for gps/
+Project Outputs for gps/
