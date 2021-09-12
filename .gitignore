@@ -7,5 +7,6 @@
 *.REP
 *.CSV
 *.SchDocPreview
+*.LOG
 Project Logs for gps/
 Project Outputs for gps/
