@@ -227,6 +227,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SAYTKEUB
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Oski_Bear_PCB\Design Rule Check - Oski_PCB.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -385,7 +389,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Samsung C460 Series
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -865,7 +869,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
